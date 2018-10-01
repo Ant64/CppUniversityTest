@@ -1,0 +1,2 @@
+#include "platforma.h"
+
